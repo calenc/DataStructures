@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FirstClassExample">
+</Property><Property Name="Solution File" Value="D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample.sln">
+</Property><Property Name="User Options File" Value="D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample.suo">
+</Property><Property Name="Date" Value="Thursday, May 13, 2010">
+</Property><Property Name="Time" Value="12:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FirstClassExample.sln" Description="File successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FirstClassExample.suo" Description="File successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample.suo">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\FirstClassExample.csproj" Description="Project file successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample\FirstClassExample.csproj">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\FirstClassExample.csproj.user" Description="Project user file successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample\FirstClassExample.csproj.user">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\DriverPgm.cs" Description="File successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample\DriverPgm.cs">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\MilesPerGallon.cs" Description="File successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample\MilesPerGallon.cs">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Courses\4956 - CSharp\FirstClassExample\Backup\FirstClassExample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\FirstClassExample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FirstClassExample" Source="FirstClassExample\FirstClassExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FirstClassExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FirstClassExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FirstClassExample" Source="FirstClassExample\FirstClassExample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

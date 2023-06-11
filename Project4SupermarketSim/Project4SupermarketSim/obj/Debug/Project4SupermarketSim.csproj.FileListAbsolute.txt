@@ -1,0 +1,12 @@
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\bin\Debug\Project4SupermarketSim.exe.config
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\bin\Debug\Project4SupermarketSim.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\bin\Debug\Project4SupermarketSim.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.csproj.AssemblyReference.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.Properties.Resources.resources
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.SimAboutBox.resources
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.Supermarket.resources
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.csproj.GenerateResource.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.csproj.CoreCompileInputs.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\Project4SupermarketSim\Project4SupermarketSim\obj\Debug\Project4SupermarketSim.SimWork.resources

@@ -1,0 +1,7 @@
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\obj\Debug\DataStructuresProject1.csproj.AssemblyReference.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\obj\Debug\DataStructuresProject1.csproj.CoreCompileInputs.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\bin\Debug\DataStructuresProject 1.exe.config
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\bin\Debug\DataStructuresProject 1.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\bin\Debug\DataStructuresProject 1.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\obj\Debug\DataStructuresProject 1.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject 1\DataStructuresProject 1\obj\Debug\DataStructuresProject 1.pdb

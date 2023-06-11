@@ -1,0 +1,17 @@
+D:\USR\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.exe
+D:\USR\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.pdb
+D:\USR\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\ResolveAssemblyReference.cache
+D:\USR\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.exe
+D:\USR\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.pdb
+C:\Users\bailes\Desktop\4957 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.exe
+C:\Users\bailes\Desktop\4957 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.pdb
+D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.exe
+D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.exe
+D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.pdb
+D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses\4956 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.pdb
+D:\Courses\4957 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.exe
+D:\Courses\4957 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\FirstClassExample.pdb
+D:\Courses\4957 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.exe
+D:\Courses\4957 - CSharp\FirstClassExample\FirstClassExample\bin\Debug\FirstClassExample.pdb
+D:\Courses\4957 - CSharp\FirstClassExample\FirstClassExample\obj\Debug\ResolveAssemblyReference.cache

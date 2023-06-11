@@ -1,0 +1,11 @@
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\bin\Debug\DataStructuresProject2.exe.config
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\bin\Debug\DataStructuresProject2.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\bin\Debug\DataStructuresProject2.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.csproj.AssemblyReference.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.Form1.resources
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.Properties.Resources.resources
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.csproj.GenerateResource.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.csproj.CoreCompileInputs.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\DataStructuresProject2\DataStructuresProject2\obj\Debug\DataStructuresProject2.AboutBox1.resources

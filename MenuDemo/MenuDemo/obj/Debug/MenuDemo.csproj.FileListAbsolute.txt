@@ -1,0 +1,6 @@
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe.config
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\bin\Debug\MenuDemo.pdb
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\obj\Debug\MenuDemo.csprojResolveAssemblyReference.cache
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\obj\Debug\MenuDemo.exe
+c:\users\bailes.etsu\OneDrive\2210-C#\MenuDemo\MenuDemo\obj\Debug\MenuDemo.pdb

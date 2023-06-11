@@ -1,0 +1,7 @@
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\bin\Debug\SortingAlgorithmReport.exe.config
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\bin\Debug\SortingAlgorithmReport.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\bin\Debug\SortingAlgorithmReport.pdb
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\obj\Debug\SortingAlgorithmReport.csproj.AssemblyReference.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\obj\Debug\SortingAlgorithmReport.csproj.CoreCompileInputs.cache
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\obj\Debug\SortingAlgorithmReport.exe
+C:\Users\freez\Visual Studio Projects for CSCI2210\SortingAlgorithmReport\SortingAlgorithmReport\obj\Debug\SortingAlgorithmReport.pdb
